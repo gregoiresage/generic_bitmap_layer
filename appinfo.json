@@ -1,0 +1,36 @@
+{
+  "uuid": "c3ae870a-0ada-4a8b-8725-71fe5ccaf8f3",
+  "shortName": "generic_bitmap_layer",
+  "longName": "generic_bitmap_layer",
+  "companyName": "Gregoire Sage",
+  "versionLabel": "1.0",
+  "sdkVersion": "3",
+  "targetPlatforms": ["aplite", "basalt", "chalk"],
+  "watchapp": {
+    "watchface": false
+  },
+  "resources": {
+    "media": [
+      {
+        "type": "png",
+        "name": "PNG",
+        "file": "globe.png"  
+      },
+      {
+        "type": "raw",
+        "name": "APNG",
+        "file": "rings.png"  
+      },
+      {
+        "type": "raw",
+        "name": "PDCS",
+        "file": "charging_sequence.pdc"  
+      },
+      {
+        "type": "raw",
+        "name": "PDCI",
+        "file": "image.pdc"  
+      }
+    ]
+  }
+}
