@@ -9,3 +9,7 @@ Create and destroy your layer with `generic_bitmap_layer_create` and `generic_bi
 
 Set the resource of your layer with `generic_bitmap_layer_set_resource(GenericBitmapLayer* gbl, uint32_t resource_id)`. You can change the resource dynamically, your layer will be updated.
 
+# Demo
+
+This project contains a demo, just try it !
+
